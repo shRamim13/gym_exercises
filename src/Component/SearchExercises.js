@@ -97,7 +97,7 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
                     || x.bodyPart.toLowerCase().includes(search),);
 
             setSearch('');
-            setExercises(searchedExercises)
+            setExercises(searchedExercises);
         }
     }
 
