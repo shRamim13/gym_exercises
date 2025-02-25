@@ -80,7 +80,7 @@ Refer to the [deployment guide](https://facebook.github.io/create-react-app/docs
 ![Home Page](./assets/home.png)
 
 ### Exercise Details
-![Exercise Details](./assets/exercise-details.png)
+![Exercise Details](./src/assets/images/exercisedetailed.png)
 
 ### Similar Exercises
 ![Similar Exercises](./src/assets/images/allexercise.png)
