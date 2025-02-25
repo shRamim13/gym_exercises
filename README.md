@@ -83,7 +83,7 @@ Refer to the [deployment guide](https://facebook.github.io/create-react-app/docs
 ![Exercise Details](./assets/exercise-details.png)
 
 ### Similar Exercises
-![Similar Exercises](./assets/similar-exercises.png)
+![Similar Exercises](./src/assets/images/allexercise.png)
 
 ## Contributions
 
