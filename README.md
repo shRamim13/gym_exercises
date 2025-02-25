@@ -95,7 +95,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, reach out to [your_shramim13@gmail.com](mailto:your_shramim13@gmail.com).
+For any inquiries, reach out to [shramim13@gmail.com](mailto:_shramim13@gmail.com).
 
 ---
 
