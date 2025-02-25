@@ -1,6 +1,6 @@
 # Gym Exercise App
 
-![Gym Exercise App](./assets/cover.png)
+![Gym Exercise App](./src/assets/images/khabib.png)
 
 A comprehensive gym exercise web application built with React.js that allows users to explore exercises categorized by muscle groups and body parts. The app provides detailed instructions, related YouTube videos, and similar exercises to enhance the fitness journey.
 
