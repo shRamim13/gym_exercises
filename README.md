@@ -138,7 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - _Initial work_ - [YourGithub](https://github.com/yourusername)
+- **Shramim** - _Initial work_ - [shRamim13](https://github.com/shRamim13)
 
 ## 🙏 Acknowledgments
 
@@ -148,9 +148,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Shramim - [shramim13@gmail.com](mailto:shramim13@gmail.com)
 
-Project Link: [https://github.com/yourusername/gym-exercise-app](https://github.com/yourusername/gym-exercise-app)
+Project Link: [https://github.com/shRamim13/gym-exercise-app](https://github.com/shRamim13/gym-exercise-app)
 
 ---
 
